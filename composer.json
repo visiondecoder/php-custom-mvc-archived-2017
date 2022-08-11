@@ -1,0 +1,20 @@
+{
+    "name": "visiondecoder/php-custom-mvc-archived-2017",
+    "description": "Dyanamic Website with Admin Panel created in PHP using Custom MVC Architecture created for educational purposes",
+    "authors": [
+        {
+            "name": "Vision Decoder",
+            "email": "accounts@visiondecoder.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "phpmailer/phpmailer": "dev-master"
+    },
+    "autoload": {
+      "psr-4": {
+        "visiondecoder\\Packages\\": "visiondecoder/Packages/",
+        "app\\": "app/"
+      }
+    }
+}

@@ -1,0 +1,1036 @@
+
+
+/* LG Device :992px. */
+@media (min-width: 992px) and (max-width: 1200px) {
+
+.fullslider .owl-prev {
+	left: 0;
+}
+.fullslider .owl-next {
+	right: 0;
+}
+.socile-footer a { 
+	margin: 0 1px;
+}
+.portfolio-item-text h6 {
+	font-size: 15px; 
+}
+.portfolio-col { 
+	padding: 70px 0;
+}
+.portfolio-cols {
+	padding: 48px 0;
+}
+.blog-ite-text h6 { 
+	font-size: 16px;
+}
+.btco-hover-menu a, .navbar > li > a {
+	text-transform: capitalize;
+	padding: 4px 13px;
+}
+.fullslider.owl-theme .owl-nav {
+	margin-top: 0px;
+	display: none;
+}
+.portfolio-wide {
+	padding: 89px 0 !important;
+}
+.portfolio-colss {
+	color: #fff;
+	padding: 40px 0 !important;
+}
+.about-cycling-text {
+	padding: 0px 0;
+}
+.choose-text {
+    padding: 30px 0;
+}
+.event-text ul li { 
+	font-size: 14px;  
+	margin-right: 9px;
+}
+.services-item-text h4 { 
+    font-size: 19px;
+}
+.blog-text ul li { 
+	margin-right: 3px;
+}
+.blog-text ul li a { 
+	font-size: 13px;
+}
+.blog-text2 p {
+	font-size: 13px;
+	letter-spacing: .2px;
+	line-height: 22px;
+}
+.Read { 
+	width: auto; 
+	padding: 10px 0;
+	padding-bottom: 0;
+	margin-top: -2px; 
+	font-weight: 500;
+	line-height: 16px;
+}
+.all-logo-slider .owl-nav.disabled + .owl-dots {
+	margin-top: 10px;
+	display: none;
+}
+.details-sulf ul li {
+	display: inline;
+	padding: 0 5px;
+}
+.relative-item p {
+	font-size: 12px;
+	font-weight: 400;
+	line-height: 20px;
+	padding-top: 10px;
+	overflow: hidden;
+}
+.relative-item span {
+	font-size: 12px; 
+}
+
+#my-menu li a { 
+    font-size: 15px; 
+    padding: 40px 9px; 
+}
+
+.what-do-slier .proe h6 {
+    font-weight: 600;
+    padding-top: 11px;
+    font-family: 'Open Sans', sans-serif;
+}
+.blog-2 { 
+    margin-right: 10px;
+}
+.blog-text2 {
+    padding: 13px 2px;
+}
+.blog-text ul li a {
+    font-size: 12px;
+}
+.blog-text2 p {
+    font-size: 13px;
+    letter-spacing: 0px; 
+}
+.Read {
+    width: 39%;
+    padding: 10px 0;
+    padding-bottom: 0;
+    margin-top: 10px;
+    font-weight: 500;
+    line-height: 16px;
+}
+#my-menu li a { 
+    font-size: 14px; 
+    letter-spacing: 0; 
+}
+.event-text ul li { 
+    letter-spacing: 0;
+}
+
+
+	.shop-text h3,
+	.footer-item h3,
+	.portfolio-item-text h3 {
+		font-size: 22px;
+	}
+	.shop-text {
+		padding: 45px 25px 54px 25px;
+	}
+	.event-text h6 {
+		font-size: 17px;
+	}
+	
+	.event-text a {
+		font-size: 14px;
+	}
+	.progression h2 {
+		font-size: 30px;
+	}
+}
+
+
+
+/* MD Device :768px. */
+@media (min-width: 768px) and (max-width: 991px) {
+
+	.icon-bar {
+		color: #fff;
+	}
+	#my-menu li a { 
+		padding: 15px 15px; 
+	}
+	.dropdown-toggle::after {
+		display: inline-block;
+		font-size: 20px;
+	}
+	.menu-shop.nav {
+		margin: 25px 0;
+	}
+	.slider-all-text h1 {
+		font-size: 40px; 
+		line-height: 50px; 
+	}
+	.slider-all-text p {
+		height: 41px;
+		font-size: 14px; 
+	}
+	.fullslider.owl-theme .owl-nav {
+		margin-top: 0px;
+		display: none;
+	}
+	.fullslider .owl-next {
+		right: 0;
+	}
+	.fullslider.owl-theme .owl-nav [class*="owl-"] { 
+		font-size: 30px !important; 
+	}
+	.about-cycling-text {
+		padding: 25px 0;
+		padding-bottom: 0;
+	}
+	.cols-5 {
+		flex: 0 0 50%;
+		width: 50%;
+	}
+	.progression a {
+		margin-top: 40px;
+	}
+	.progression {
+		float: left;
+	}
+	.blog-text2 {
+		padding: 29px 0;
+	}
+	.choose-text {
+		padding: 35px 0;
+		padding-top: 0;
+	}
+	.portfolio-cols {
+		color: #fff;
+		padding: 75px 0;
+	}
+	.all-logo-slider.owl-theme .owl-nav.disabled + .owl-dots {
+		margin-top: 10px;
+		display: none;
+	}
+	.footer-item h3 {
+		padding-bottom: 29px;
+	}
+	.dropdown-menu.serchbox {
+		right: -238px; 
+	}
+	.dropdown-menu.show { 
+		left: 0px; 
+	}
+	.form-inline.my-2.my-lg-0 {
+		margin: 0 !important;
+		padding: 0;
+	}
+	.form-inline .form-control { 
+		width: 70%;
+	}
+	.padding-0 {
+		padding: 0 0px;
+	}
+	.menu-shop.nav {
+		margin: 25px 15px;
+	}
+	.about-cycling-item.padding-0 {
+		padding: 0;
+	}
+	.blog-text2 {
+		padding: 33px 0;
+	}
+	.event-text ul li { 
+		letter-spacing: 0;
+	}
+	.col-lg-4.col-md-6.padding-0.portfolio-grid-item {
+		padding: 0;
+	}
+	.form-inline .form-control {
+		width: 78%;
+	}
+	.dropdown-menu li .dropdown-item {
+		font-size: 13px !important;
+		line-height: 4px;
+		padding: 20px 30px !important;
+	}
+	.fullslider .slider-all-text { 
+		padding-top: 70px;
+	}
+	.navbar { 
+		padding: 14px 0px; 
+	}
+	.icon-bar {
+		color: #fff;
+		font-size: 30px;
+	}
+	.our-team { 
+		padding: 0 15px;
+	}
+
+	.portfolio-grid-item,
+	.pricing-item {
+		margin-bottom: 30px;
+	}
+	.pricing-item.pb-95 {
+		margin-bottom: 70px;
+	}
+	.pb-95.pricing-area{
+		padding-bottom: 70px !important;
+	}
+	.choose-text {
+		text-align: center;
+	}
+	.event-content-details-area {
+		padding-bottom: 20px;
+	}
+	.single-header-slider {
+		padding: 72px 0 160px 0;
+	}
+	.single-header-slider .btn-wrapper {
+		margin-top: 60px;
+	}
+	.services-item-text h4 {
+		font-size: 22px;
+		line-height: 32px;
+	}
+	.services-item-img {
+		margin-top: 30px;
+	}
+	.portfolio-box.our-team {
+		margin-bottom: 30px;
+	}
+	
+	.pb-95.special-team-area {
+		padding-bottom:  65px !important;
+	}
+	.our-blog-item {
+		padding-bottom: 30px;
+	}
+	
+	.our-blog-item.mt-35 {
+		margin-top: 0 !important;
+	}
+	.pb-100.our-blog-area {
+		padding-bottom: 70px !important;
+	}
+	.choose-text h4 {
+    font-weight: 700;
+    line-height: 35px;
+    font-size: 26px;
+}
+}
+
+
+
+/* Extra small Device. */
+@media (max-width: 767px) { 
+
+	.icon-bar {
+		color: #fff;
+	}
+	#my-menu li a { 
+		padding: 15px 15px; 
+	}
+	.dropdown-toggle::after {
+		display: inline-block;
+		font-size: 20px;
+	}
+	.menu-shop.nav {
+		margin: 25px 0;
+	}
+	.slider-all-text h1 {
+		font-size: 40px; 
+		line-height: 50px; 
+	}
+	.slider-all-text p {
+		height: 41px;
+		font-size: 14px; 
+	}
+	.slider-all-text p br {
+		display: none; 
+	}
+	.fullslider.owl-theme .owl-nav {
+		margin-top: 0px;
+		display: none;
+	}
+	.about-cycling-text {
+		padding: 0; 
+	}
+	.cols-5 {
+		flex: 0 0 50%;
+		width: 50%;
+	}
+	.progression a {
+		margin-top: 40px;
+	}
+	.progression {
+		float: left;
+	}
+	.blog-text2 {
+		padding: 29px 0;
+	}
+	.choose-text {
+		padding: 35px 0;
+		padding-top: 0;
+	}
+	.portfolio-cols {
+		color: #fff;
+		padding: 75px 0;
+	}
+	.portfolio-wide {
+		padding: 35% 0;
+	}
+	.portfolio-col {
+		color: #fff;
+		padding: 35% 0;
+	}
+	.blog-2 {
+		display: inherit;
+		margin-right: 10px;
+		float: unset;
+	}
+	.blog-text2 {
+		padding: 30px 30px;
+	}
+	.all-logo-slider.owl-theme .owl-nav.disabled + .owl-dots {
+		margin-top: 10px;
+		display: none;
+	}
+	.wol-btn i { 
+		font-size: 15px;
+	}
+	.wolbtn1 { 
+		top: 10px;
+		margin-left: 127px;
+	}
+	.wolbtn2 { 
+		top: 35px;
+		margin-left: 60%;
+	}
+	.wolbtn3 { 
+		top: 60px;
+		margin-left: 5%;
+	}
+	.wolbtn4 { 
+		top: 73px;
+		margin-left: 79%;
+	}
+	.wolbtn5 { 
+		top: 100px;
+		margin-left: 41%;
+	}
+	.wolbtn6 { 
+		top: 112px;
+		margin-left: 63%;
+	}
+	.wolbtn8 { 
+		top: 198px;
+		margin-left: 80%;
+	}
+	.footer-item h3 {
+		padding-bottom: 30px;
+	}
+	.portfolio-button.filter-button-group button { 
+		font-size: 14PX; 
+		margin: 0 2px;
+	}
+	.details-sulf ul li {
+		display: inline;
+		padding: 0 4px;
+		font-size: 13px;
+	}
+	.event-details-text {
+		margin-bottom: 30px;
+	}
+	.dropdown-menu.serchbox {
+		right: -238px; 
+	}
+	.dropdown-menu.show { 
+		left: 0px; 
+	}
+	.form-inline.my-2.my-lg-0 {
+		margin: 0 !important;
+		padding: 0;
+	}
+	.menu-shop.nav {
+		margin: 25px 15px;
+	} 
+
+	.slider-all-text p { 
+		letter-spacing: 0; 
+	}
+	.Read { 
+		width: 100%; 
+	}
+	.socile-footer {
+		margin-top: 5px;
+		margin-bottom: 20px;
+	}
+	.dropdown-menu li .dropdown-item {
+		font-size: 13px !important;
+		line-height: 4px;
+		padding: 15px 30px !important;
+	}
+	.navbar { 
+		padding: 15px 0px; 
+	}
+	.form-inline .form-control {
+		width: 78%;
+	}
+/*	.fullslider .slider-all-text { 
+		padding-top: 70px;
+	}*/
+	.what-do-slier .proe img {
+		width: auto;
+		margin-right: 5px;
+	}
+	.icon-bar { 
+		font-size: 25px;
+	}
+	p.blo-titl {
+		font-size: 22px;
+	}
+	.blog-text h3 { 
+		font-weight: 600;
+	}
+	.blog-img a {
+		left: 20px;
+		right: unset;
+		display: inline-block;
+	}
+	.footer-img img {
+		width: auto;
+	}
+	.out-slider-content h2 {
+		font-size: 30px;
+	}
+	.event-content-details-area {
+		padding-bottom: 0;
+	}
+	.choose-text {
+		text-align: center;
+	}
+	.section-title p{
+		font-size: 14px;
+	}
+	.pricing-item {
+		margin-bottom: 30px;
+	}
+	
+	.pb-95.pricing-area {
+		padding-bottom: 65px !important;
+	}
+	.single-header-slider .btn-wrapper {
+		margin-top: 60px;
+	}
+	.about-cycling-text,
+	.services-item-img img {
+		margin-top: 30px;
+	}
+	.portfolio-box.our-team {
+		margin-bottom: 30px;
+	}
+	
+	.pb-95.special-team-area {
+		padding-bottom: 70px !important;
+	}
+	.our-blog-item {
+		padding-bottom: 30px;
+	}
+	.our-blog-item.mt-35{
+		margin-top: 0 !important;
+	}
+	.pb-100.our-blog-area{
+		padding-bottom: 70px !important;
+	}
+	.choose-text h4 br{
+		display: none;
+	}
+}
+
+
+ 
+/* SM Small Device :550px. */
+@media only screen and (max-width: 600px) {
+	
+	.portfolio-box.our-team{
+		padding-left:15px; 
+		padding-right:15px; 
+	}
+}
+
+
+
+/* Extra Small Devices, Phones */ 
+@media only screen and (max-width : 520px) { 
+
+	.cols-5 {
+		flex: none;
+		width: 100%;
+	}  
+	.blog-2 {
+		display: inherit;
+		float: unset;
+		margin-right: 10px;
+	} 
+	.portfolio-button.filter-button-group button {
+		background: none;
+		border: 0;
+		font-size: 15PX;
+		font-weight: 700;
+		margin: 0 1px;
+	}
+	.ma-l {
+		margin-left: 0;
+	}
+	#copy-right p { 
+		font-size: 13px;
+	}
+	.blog-text {
+		padding: 20px;
+		background: #f8f8f8;
+	}
+	.event-text ul li {
+		display: inline-block;
+		font-size: 13px;
+		color: #242424;
+		padding: 15px 0px;
+		margin-right: 17px;
+	} 
+	.slider-all-text h1 {
+		font-size: 36px; 
+	}
+	.slider-all-text h1 {
+		font-size: 36px;
+		line-height: 50px;
+	}
+	.wolbtn7 { 
+		top: 188px;
+		margin-left: 25%;
+	}
+	.portfolio-col { 
+		padding: 31% 0;
+	}
+	.details-text {
+		padding: 25px 10px;
+	}
+	.details-sulf ul li { 
+		padding: 0 2px; 
+	}
+	.section-title h2 {
+		font-size: 30px;
+	}
+	.about-cycling-text h3 {
+		font-size: 26px;
+	}
+	.slider-all-text h1 {
+		font-size: 33px;
+		line-height: 40px;
+	}
+	.slider-all-text p{
+		font-size: 16px;
+		line-height: 26px;
+	}
+	.single-header-slider .btn-wrapper {
+		margin-top: 80px;
+	}
+	
+	.services-item-text i {
+		float:  none;
+	}
+	
+	.services-text {
+		text-align:  center;
+	}
+	.choose-text h4 {
+		line-height: 30px;
+		font-size: 19px;
+	}
+	.section-title p,
+	.footer-item ul li a,
+	.footer-item p {
+		font-size: 16px;
+	}
+	.work-padd {
+		padding: 0 ; 
+	}
+	.blog-text2 .blo-titl,
+	.blog-text h3
+	{
+		font-size: 20px;
+		color: #242424;
+	}
+	.services-item-text{
+		text-align: center;
+	}
+}
+
+
+
+
+/* Extra Small Devices, Phones */ 
+@media only screen and (max-width : 440px) { 
+	.slider-all-text h1 {
+		font-size: 28px;
+		line-height: 36px;
+	}
+	.single-header-slider .btn-wrapper .btn {
+		width:  200px;
+		margin-bottom: 20px;
+	}
+	.single-header-slider .btn-wrapper .btn {
+		width:  200px;
+		margin-bottom: 20px;
+	}
+	.about-cycling-text h3 {
+		font-size: 25px;
+		line-height: 35px;
+	}
+	.about-cycling-text h6{
+		font-size: 14px;
+	}
+	.about-cycling-text h3 b{
+		font-size: 33px;
+		line-height: 35px;
+	}
+	.section-title h2 {
+		font-size: 26px;
+	}
+	.about-cycling-item {
+		border-radius: 10px;
+		border: 4px solid #FFF;
+		overflow: hidden;
+		float: none;
+		width: 100%;
+		display: block;
+		flex: 100%;
+		width: 100% !important;
+		max-width: 100%;
+		margin-top: 10px;
+	}
+	.event-details-text h2,
+	.event-item-text h2,
+	.event-details-text h3{
+		font-size: 26px;
+	}
+	.details-sulf ul li {
+		padding: 0 1px;
+		font-size: 14px;
+		margin-bottom: 8px;
+		display: inline-block;
+	}
+	.progression h2 {
+		font-size: 30px;
+	}
+	.slider-all-text h1 br {
+		display: none;
+	}
+	
+	
+}
+
+/* Custom, iPhone Retina */ 
+@media only screen and (max-width: 414px){
+	.slider-all-text h1 {
+		font-size: 30px;
+		line-height: 42px;
+	}
+	.single-header-slider .btn-wrapper .btn {
+		width: 180px;
+		height: 50px;
+		line-height: 50px;
+		padding: 0;
+	}
+	
+	.about-cycling-text .btn {
+		width: 200px;
+	}
+	.services-item {
+		padding-top: 30px;
+	}
+	.our-services-area .section-title {
+		margin-bottom: 15px;
+	}
+	.section-title p, .footer-item ul li a, .footer-item p {
+		font-size: 14px;
+	}
+	.choose-text h4 {
+		line-height: 30px;
+		font-size: 20px;
+	}
+	.btn {
+    	font-size: 14px;
+	}
+	.pricing-item-title h3 {
+		font-size: 21px;
+	}
+	.pricing-item-title h2 {
+		font-size:  30px;
+		padding-top: 5px;
+	}
+	.about-cycling-text {
+		margin-top:  0;
+		margin-bottom: 30px;
+	}
+	.details-socile h6 {
+		margin-right: 15px;
+	}
+	.relative-item span {
+		font-size: 14px;
+	}
+	#about-cycling-area .about-cycling-text {
+		margin-top: 30px;
+	}
+}
+
+/* Custom, iPhone Retina */ 
+@media only screen and (max-width: 390px)  {
+	.slider-all-text h1 {
+		font-size: 26px;
+		line-height: 36px;
+	}
+	.progression h2{
+		font-size: 30px;
+	}
+	.slider-all-text p {
+		font-size: 14px;
+		line-height: 24px;
+	}
+	.section-title p{
+		font-size: 14px;
+		line-height: 26px;
+	}
+	.about-cycling-text h6 {
+		font-size: 13px;
+	}
+	.choose-text h4 {
+		line-height: 26px;
+		font-size: 16px;
+	}
+	.about-img{
+		margin-top: 30px;
+	}
+	.services-item-text i:before {
+		font-size: 50px;
+		line-height: 50px;
+	}
+	.services-item-text i{
+		margin-bottom: 10px;
+	}
+	.services-item {
+		padding-top: 30px;
+	}
+	.our-services-area .section-title {
+		margin-bottom: 17px;
+	}
+	.single-header-slider .btn-wrapper .btn {
+		width: 170px;
+		margin-bottom: 20px;
+		font-size: 14px;
+		height: 50px;
+	}
+	.slider-all-text h1 {
+		font-size: 29px;
+		line-height: 36px;
+	}
+	.services-item-text h4 {
+		font-size: 18px;
+		line-height: 30px;
+		padding-bottom: 0;
+	}
+	.choose-text h4 {
+		line-height: 30px;
+		font-size: 21px;
+		font-weight: 600;
+	}
+	.portfolio-item-text h6 {
+		font-size: 25px;
+	}
+	#portfolio-area .portfolio-item-text h6 {
+		font-size: 16px;
+	}
+}
+
+
+
+/* Custom, iPhone Retina */ 
+@media only screen and (max-width : 368px)  {
+	.slider-all-text h1 br{
+		display: none;
+	}
+	.slider-all-text h1 {
+		font-size: 23px;
+		line-height: 31px;
+	}
+	.single-header-slider .btn-wrapper {
+		margin-top: 80px;
+	}
+	.progression h2 {
+		font-size: 25px;
+	}
+	.blog-text2 .blo-titl, .blog-text h3 {
+		font-size: 18px;
+		color: #242424;
+	}
+	.choose-text h4 {
+		line-height: 30px;
+		font-size: 18px;
+	}
+	.blog-ite-chang li a {
+		padding: 12px 17px;
+		font-size: 18px;
+	}
+	.commtent-item img {
+		float:  none;
+		margin-bottom: 20px;
+	}
+	.slider-all-text h1 {
+		font-size: 32px;
+		line-height: 40px;
+		letter-spacing: 0;
+	}
+	.about-cycling-text h3 {
+		font-size: 24px;
+		line-height: 28px;
+	}
+	.wolbtn7, .wolbtn8 {
+		display: none;
+	}
+	.about-cycling-text p{
+		font-size: 14px;
+	}
+	.event-text a {
+		font-size: 14px;
+	}
+	.event-details-text a {
+		font-size: 14px;
+		line-height: 25px;
+		padding: 10px 30px;
+	}
+	.out-slider-content h2 {
+		font-size: 25px;
+	}
+	.blog-ite-btn span,
+	.blog-ite-btn a{
+		font-size: 14px;
+	}
+	.blog-ite-chang li a {
+		padding: 12px 17px;
+		font-size: 16px;
+	}
+	.relative-item span {
+		padding-top: 0;
+	}
+	.relative-item {
+		margin-bottom: 25px;
+	}
+	.categories ul li a {
+		font-size: 16px;
+	}
+}
+@media only screen and (max-width : 344px)  {
+	.cols-5 {
+		flex: 0 0 100%;
+		width: 100%;
+	} 
+	.slider-all-text h1 {
+		font-size: 20px;
+		line-height: 30px;
+	}
+	.about-cycling-text h3 {
+		font-size: 24px;
+		line-height: 34px;
+	}
+	.about-cycling-text h6 {
+		font-size: 13px;
+	}
+	.about-cycling-text h3 b {
+		font-size: 30px;
+		line-height: 35px;
+	}
+	.blog-text2 .blo-titl, .blog-text h3 {
+		font-size: 16px;
+		color: #242424;
+		line-height: 25px;
+	}
+	.event-text h6 {
+		font-size: 16px;
+	}
+	.event-text a {
+		font-size: 14px;
+	}
+	.event-text ul li {
+		font-size: 12px;
+		padding: 15px 0px;
+		margin-right: 6px;
+	}
+	.event-details-text h2, .event-item-text h2, .event-details-text h3 {
+		font-size: 24px;
+	}
+	.portfolio-item-text h3 {
+		font-size: 20px;
+	}
+	.shop-text {
+		padding: 45px 20px 54px 20px;
+	}
+	.shop-text h3 {
+		font-size: 22px;
+	}
+	.single-header-slider .btn-wrapper {
+		margin-top: 100px;
+	}
+	.slider-all-text h1 br {
+		display: none;
+	}
+	.slider-all-text h1{
+		font-size: 30px;
+		line-height: 40px;
+	}
+	.single-header-slider .btn-wrapper .btn {
+		width: 170px;
+		margin-bottom: 20px;
+		font-size: 14px;
+		height: 45px;
+		padding: 0;
+		line-height: 43px;
+	}
+	.section-title p {
+		font-size: 15px;
+		line-height: 26px;
+	}
+	.services-text p {
+		font-size: 14px;
+	}
+	.services-item-text h4 {
+		font-size: 20px;
+		line-height: 30px;
+		padding-bottom: 0;
+	}
+	.progression a {
+		margin-top: 25px;
+	}
+	#progression-area .btn {
+		font-size: 14px;
+	}
+	.progression h6 {
+		font-size: 16px;
+	}
+	.progression h2 {
+		font-size: 25px;
+		line-height: 35px;
+		margin-bottom: 10px;
+	}
+	.blog-img a {
+		font-size: 14px;
+	}
+	.event-details-text .details-socile a {
+		padding: 0;
+	}
+	.out-slider-content h2 {
+		font-size: 24px;
+	}
+}

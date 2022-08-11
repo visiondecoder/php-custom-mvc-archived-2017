@@ -1,0 +1,38 @@
+// website
+
+Home:
+//remove 3rd para from about
+//remove 2 images from about and fix size of 1st image
+//fix size of import and export images
+//put view more buttons down side of import and export product
+
+ABOUT:
+//fix image size
+add action icon in all tables for edit and delete products
+
+IMPORTS:
+//fix image size
+//create product detail page
+
+EXPORTS:
+//fix image size
+//create product detail page
+
+CONVERT RATE:
+//create convert rate page
+
+// ADMIN
+//fix all product image size from all tables
+
+HOME:
+//in home about content replace input text field with textarea
+
+ABOUT:
+//put save button down in about content
+
+COMMON:
+//remove down menu section
+//remove down about section
+
+
+

@@ -1,0 +1,15 @@
+Options +FollowSymLinks
+RewriteEngine On
+
+RewriteRule	^admin-login.php/?$	views/admin-login.php [NC,L]
+
+RewriteRule	^/?$	views/index.php [NC,L]
+RewriteRule	^index.php/?$	views/index.php [NC,L]
+RewriteRule	^about-us.php/?$	views/about-us.php [NC,L]
+RewriteRule	^import.php/?$	views/import.php [NC,L]
+RewriteRule	^export.php/?$	views/export.php [NC,L]
+RewriteRule	^ports.php/?$	views/ports.php [NC,L]
+RewriteRule	^join-us.php/?$	views/join-us.php [NC,L]
+RewriteRule	^contact-us.php/?$	views/contact-us.php [NC,L]
+RewriteRule	^convert-rate.php/?$	views/convert-rate.php [NC,L]
+RewriteRule	^product-detail.php/?$	views/product-detail.php [NC,L]
